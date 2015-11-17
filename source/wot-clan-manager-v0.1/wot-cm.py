@@ -41,4 +41,5 @@ def teardown_request(exception):
 print(__name__)
 
 if __name__ == '__main__':
-    app.run()globals()
+    app.run().globals()
+    
