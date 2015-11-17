@@ -1,0 +1,1 @@
+# wot-clan-manager
