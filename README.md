@@ -1,1 +1,1 @@
-# wot-clan-manager
+# WoT clan management app
